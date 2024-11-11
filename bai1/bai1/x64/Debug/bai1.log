@@ -1,0 +1,3 @@
+﻿  Phanso.cpp
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH_3\bai1\bai1\Phanso.cpp(10,1): warning C4715: 'Phanso::gcd': not all control paths return a value
+  bai1.vcxproj -> D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH_3\bai1\x64\Debug\bai1.exe

@@ -1,0 +1,9 @@
+﻿  bai2.cpp
+  sophuc.cpp
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH_3\bai2\bai2\sophuc.cpp(20,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH_3\bai2\bai2\sophuc.cpp(21,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH_3\bai2\bai2\sophuc.cpp(22,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH_3\bai2\bai2\sophuc.cpp(22,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH_3\bai2\bai2\sophuc.cpp(25,16): warning C4244: 'initializing': conversion from 'float' to '__int64', possible loss of data
+  Generating Code...
+  bai2.vcxproj -> D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH_3\bai2\x64\Debug\bai2.exe
